@@ -1,6 +1,6 @@
 # Edge-Conv-implementation
 
-This project was developed for the *Neural Network* exam, academic year 2021/2022, University of Sapienza.
+This project was developed for the *Neural Network* exam, academic year 2021/2022, Università La Sapienza.
 
 This projects implements the convolutional neural network on graphs described in *Dynamic Graph CNN for Learning on Point Clouds* [1]; the network is called *Dynamic Graph Convolutional Neural Network* and it uses **EdgeConv** as its fundamental building block. The model was trained on a classification task, using the dataset ModelNet40 [2], which contains 3D scans of objects belonging to 40 different categories. The model is implemented using **Pytorch**.
 
